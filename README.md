@@ -1,3 +1,11 @@
+# Doing Bayesian Data Analysis
+Based on the pymc3 implementation, I have been trying to implement with [numpyro](http://num.pyro.ai/en/stable/).
+
+Numpyro is
+- based on JAX and JIT.
+- the same interface as pyro.
+- kind of specialized for MCMC in my opinion.
+
 # Doing Bayesian Data Analysis - Python/PyMC3
 This repository contains Python/PyMC3 code for a selection of models and figures from the book <A target="_blank" href='https://sites.google.com/site/doingbayesiandataanalysis/'>'Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan'</A>, Second Edition, by John Kruschke (2015).
 The datasets used in this repository have been retrieved from the book's website. Note that, in its current form, this repository is not a standalone tutorial and that you probably should have a copy of the book to follow along. Suggestions for improvement and help with unsolved issues are welcome!<P>
